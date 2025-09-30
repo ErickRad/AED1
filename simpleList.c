@@ -16,7 +16,6 @@ int createNode(char *data) {
 
     } else {
             Node *current = head;
-
             while(current-> next != NULL){
                 current = current->next;
             }
@@ -56,6 +55,7 @@ int main(){
     createNode("One");
     createNode("Two");
     createNode("Three");
+    createNode("Four");
 
     printNodes();
 
