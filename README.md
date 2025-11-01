@@ -2,8 +2,8 @@
 
 ## 👨‍💻 Autor
 **Nome:** Erick  
-**Curso:** Engenharia de Computação 
-**Matricula:** 24101785 
+**Curso:** Engenharia de Computação  
+**Matricula:** 24101785  
 **Função:** Estudante e desenvolvedor/pesquisador de Redes Neurais  
 **Contato:** Repositório pessoal de estudos práticos da disciplina de AED  
 
